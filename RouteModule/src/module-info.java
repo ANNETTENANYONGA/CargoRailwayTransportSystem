@@ -1,0 +1,3 @@
+module RouteModule {
+    exports PackageRoute;
+}

@@ -1,0 +1,3 @@
+module PaymentModule {
+    exports PackagePayment;
+}
